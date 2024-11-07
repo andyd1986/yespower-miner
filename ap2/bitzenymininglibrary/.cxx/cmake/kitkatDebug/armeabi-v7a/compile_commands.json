@@ -1,0 +1,85 @@
+[
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dbitzenymininglibrary_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -fexceptions -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\bitzenymininglibrary.dir\\src\\main\\cpp\\bitzenymininglibrary.cpp.o -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\bitzenymininglibrary.cpp",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/bitzenymininglibrary.cpp"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -D__KITKAT__ -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\scrypt.c.o   -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\scrypt.c",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/scrypt.c"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target armv7-none-linux-androideabi19 -gcc-toolchain C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include  -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\scrypt-arm.S.o -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\scrypt-arm.S",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/scrypt-arm.S"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target armv7-none-linux-androideabi19 -gcc-toolchain C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include  -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\scrypt-x64.S.o -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\scrypt-x64.S",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/scrypt-x64.S"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target armv7-none-linux-androideabi19 -gcc-toolchain C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include  -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\scrypt-x86.S.o -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\scrypt-x86.S",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/scrypt-x86.S"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -D__KITKAT__ -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\sha2.c.o   -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\sha2.c",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/sha2.c"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target armv7-none-linux-androideabi19 -gcc-toolchain C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include  -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\sha2-arm.S.o -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\sha2-arm.S",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/sha2-arm.S"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target armv7-none-linux-androideabi19 -gcc-toolchain C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include  -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\sha2-x64.S.o -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\sha2-x64.S",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/sha2-x64.S"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe -target armv7-none-linux-androideabi19 -gcc-toolchain C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include  -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\sha2-x86-notextrel.S.o -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\sha2-x86-notextrel.S",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/sha2-x86-notextrel.S"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -D__KITKAT__ -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\util.c.o   -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\util.c",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/util.c"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -D__KITKAT__ -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\yescrypt.c.o   -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\yescrypt.c",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/yescrypt.c"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -D__KITKAT__ -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\yespower\\yespower.c.o   -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\yespower\\yespower.c",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/yespower/yespower.c"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -D__KITKAT__ -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\yespower\\sha256.c.o   -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\yespower\\sha256.c",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/yespower/sha256.c"
+},
+
+{
+  "directory": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a",
+  "command": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/aelfi/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -D__STDC_CONSTANT_MACROS -D__STDC_LIMIT_MACROS -D__linux -I../../../../src/main/cpp/libcpuminer -I../../../../../distribution/zlib/include -I../../../../../distribution/curl/include -I../../../../../distribution/jansson/include   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -D__KITKAT__ -g -O3 -O0 -fno-limit-debug-info  -fPIC   -o src\\main\\cpp\\libcpuminer\\CMakeFiles\\cpuminer.dir\\libcpuminer.c.o   -c C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\libcpuminer.c",
+  "file": "C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/src/main/cpp/libcpuminer/libcpuminer.c"
+}
+]

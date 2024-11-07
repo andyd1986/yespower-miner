@@ -1,0 +1,6 @@
+C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a/CMakeFiles/bitzenymininglibrary.dir
+C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a/src/main/cpp/libcpuminer/CMakeFiles/edit_cache.dir
+C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a/src/main/cpp/libcpuminer/CMakeFiles/cpuminer.dir
+C:/Users/aelfi/Documents/ap2/bitzenymininglibrary/.cxx/cmake/kitkatDebug/armeabi-v7a/src/main/cpp/libcpuminer/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+Executable : C:\Users\aelfi\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\aelfi\Documents\ap2\bitzenymininglibrary\.cxx\cmake\kitkatDebug\x86
+bitzenymininglibrary
+jvmArgs : 
+

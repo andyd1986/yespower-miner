@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\src\\main\\cpp\\libcpuminer\\CMakeLists.txt",
+    "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\.cxx\\cmake\\kitkatDebug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\.cxx\\cmake\\kitkatDebug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "bitzenymininglibrary-Debug-x86": {
+      "artifactName": "bitzenymininglibrary",
+      "buildCommand": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\.cxx\\cmake\\kitkatDebug\\x86\" bitzenymininglibrary",
+      "abi": "x86",
+      "output": "C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\build\\intermediates\\cmake\\kitkatDebug\\obj\\x86\\libbitzenymininglibrary.so"
+    },
+    "cpuminer-Debug-x86": {
+      "artifactName": "cpuminer",
+      "buildCommand": "C:\\Users\\aelfi\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\.cxx\\cmake\\kitkatDebug\\x86\" cpuminer",
+      "abi": "x86",
+      "output": "C:\\Users\\aelfi\\Documents\\ap2\\bitzenymininglibrary\\.cxx\\cmake\\kitkatDebug\\x86\\src\\main\\cpp\\libcpuminer\\libcpuminer.a"
+    }
+  }
+}

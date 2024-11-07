@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YesPowerMiner</string>
+    <string-array name="algorithms">
+        <item>yescryptr16</item>
+        <item>yespowerr16</item>
+		<item>yespower</item>
+    </string-array>
+</resources>
